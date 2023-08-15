@@ -1,0 +1,13 @@
+com/magneto/DriverFactory/OptionsManager.class
+com/magneto/pages/LoginPage.class
+com/magneto/constants/AppConstants.class
+com/magneto/pages/HomePage.class
+com/magneto/constants/FileLocations.class
+com/magneto/ElementUtils/initData.class
+com/magneto/DriverFactory/initDriver.class
+com/magneto/listeners/Retry.class
+com/magneto/listeners/ExtentReportListener.class
+com/magneto/listeners/AnnotationTransformer.class
+com/magneto/ElementUtils/Utils.class
+com/magneto/ElementUtils/JavaScriptUtil.class
+com/magneto/listeners/AllureListener.class

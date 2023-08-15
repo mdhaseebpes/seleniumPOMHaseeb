@@ -1,0 +1,13 @@
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/pages/HomePage.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/listeners/Retry.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/constants/AppConstants.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/DriverFactory/initDriver.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/constants/FileLocations.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/listeners/AllureListener.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/ElementUtils/Utils.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/DriverFactory/OptionsManager.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/pages/LoginPage.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/ElementUtils/initData.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/listeners/ExtentReportListener.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/ElementUtils/JavaScriptUtil.java
+/Users/mohammedhaseebalikhan/Desktop/AUTOMATION/SeleniumPOMHaseeb/src/main/java/com/magneto/listeners/AnnotationTransformer.java
