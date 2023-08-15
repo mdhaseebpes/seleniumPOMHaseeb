@@ -25,14 +25,14 @@ pipeline{
             }
         }
 
-           stage("Run integration automation test cases"){
+           stage("Run integration automation tests - QA"){
                     steps{
                         echo("Run integration automation test cases")
                     }
                 }
 
         
-        stage("Run regression automation test cases"){
+        stage("Run regression automation test"){
             steps{
                 echo("Run regression automation test cases")
             }
@@ -44,7 +44,7 @@ pipeline{
             }
         }
 
-           stage("Run integration automation test cases"){
+           stage("Run integration automation tests - Stage"){
                     steps{
                         echo("Run integration automation test cases")
                     }
