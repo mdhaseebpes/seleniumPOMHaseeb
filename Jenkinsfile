@@ -17,14 +17,20 @@ pipeline{
                 echo("deploying to dev env")
             }
         }
-        
-        
+    
         
         stage("Deploy to qa"){
             steps{
                 echo("deploying to qa env")
             }
         }
+
+           stage("Run integration automation test cases"){
+                    steps{
+                        echo("Run integration automation test cases")
+                    }
+                }
+
         
         stage("Run regression automation test cases"){
             steps{
@@ -37,6 +43,13 @@ pipeline{
                 echo("deploying to stage env")
             }
         }
+
+           stage("Run integration automation test cases"){
+                    steps{
+                        echo("Run integration automation test cases")
+                    }
+                }
+
         
         stage("Run sanity automation test cases"){
             steps{
